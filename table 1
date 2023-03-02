@@ -1,0 +1,111 @@
+<table style="width: Auto; border-style: solid; border-color: #000000; background-color: #f2f2f2; float: left;" border="2" cellspacing="5" cellpadding="5">
+<tbody>
+<tr>
+<td style="width: 170.059px; background-color: #8e8cf8;">
+<p><strong><span style="color: #ffffff; font-size: 20px;">Main Features</span></strong></p>
+</td>
+<td style="width: 204.766px; background-color: #8e8cf8;">
+<p><strong><span style="color: #ffffff; font-size: 20px;">Core Functions</span></strong></p>
+</td>
+<td style="width: 189.199px; background-color: #8e8cf8;">
+<p><strong><span style="color: #ffffff; font-size: 20px;">Approximate Costs</span></strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 170.059px;">
+<p><span style="font-weight: 400;">User Login</span></p>
+</td>
+<td style="width: 204.766px;">
+<ul>
+<li><span style="font-weight: 400;">Signup/Login/Password reset</span></li>
+<li><span style="font-weight: 400;">3rd Party login like FB, Google.</span></li>
+</ul>
+</td>
+<td style="width: 189.199px;">
+<p><span style="font-weight: 400;">$1k - 2k</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 170.059px;">
+<p><span style="font-weight: 400;">Calls</span></p>
+</td>
+<td style="width: 204.766px;">
+<ul>
+<li><span style="font-weight: 400;">Connect Calls</span></li>
+<li><span style="font-weight: 400;">View Call history</span></li>
+<li><span style="font-weight: 400;">Video Calls</span></li>
+<li><span style="font-weight: 400;">Record Calls</span></li>
+<li><span style="font-weight: 400;">3rd party calling</span></li>
+</ul>
+</td>
+<td style="width: 189.199px;">
+<p><span style="font-weight: 400;">$10k - 15k</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 170.059px;">
+<p><span style="font-weight: 400;">E-Commerce</span></p>
+</td>
+<td style="width: 204.766px;">
+<ul>
+<li><span style="font-weight: 400;">Product Catalogs</span></li>
+<li><span style="font-weight: 400;">Checkout</span></li>
+<li><span style="font-weight: 400;">Order management</span></li>
+<li><span style="font-weight: 400;">Payments integration&nbsp;</span></li>
+</ul>
+</td>
+<td style="width: 189.199px;">
+<p><span style="font-weight: 400;">$15k - 30k</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 170.059px;">
+<p><span style="font-weight: 400;">Navigation</span></p>
+</td>
+<td style="width: 204.766px;">
+<ul>
+<li><span style="font-weight: 400;">Detect location</span></li>
+<li><span style="font-weight: 400;">Maps</span></li>
+<li><span style="font-weight: 400;">Direction aid</span></li>
+</ul>
+</td>
+<td style="width: 189.199px;">
+<p><span style="font-weight: 400;">$3.5k - 6k</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 170.059px;">
+<p><span style="font-weight: 400;">Chat/Messaging</span></p>
+</td>
+<td style="width: 204.766px;">
+<ul>
+<li><span style="font-weight: 400;">Send messages</span></li>
+<li><span style="font-weight: 400;">Read/delete/like messages</span></li>
+<li><span style="font-weight: 400;">Send files</span></li>
+<li><span style="font-weight: 400;">user status</span></li>
+<li><span style="font-weight: 400;">Forwarding</span></li>
+</ul>
+</td>
+<td style="width: 189.199px;">
+<p><span style="font-weight: 400;">$4k - 7k</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 170.059px;">
+<p><span style="font-weight: 400;">Payment Processing</span></p>
+</td>
+<td style="width: 204.766px;">
+<ul>
+<li><span style="font-weight: 400;">Payments to bank</span></li>
+<li><span style="font-weight: 400;">Credit payments</span></li>
+<li><span style="font-weight: 400;">Funds Transfer</span></li>
+<li><span style="font-weight: 400;">Check history</span></li>
+<li><span style="font-weight: 400;">3rd party gateways like UPI, Paytm, Paypal, etc.</span></li>
+</ul>
+</td>
+<td style="width: 189.199px;">
+<p><span style="font-weight: 400;">$2.5k - 4k</span></p>
+</td>
+</tr>
+</tbody>
+</table>
